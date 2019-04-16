@@ -1,0 +1,5 @@
+ NUMBER PARTNAME                 QTY   REOPNT SUPNAME
+
+ 12112 widgets,med              150   250    BUILDERSWARES
+ 12115 widgets, large           100   150    BUILDERSWARES
+ 12122 connectors               250   350    FIRSTBUILDERS
